@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah H(udson)!
-- 👀 I’m interested in web dev, game dev, and combining art & tech.
-- 🌱 I'm in the process of updating my web development skills through [The Odin Project](https://www.theodinproject.com).
-- 🎨 I also have a Bachelor of Media Arts from Emily Carr University in Canada
+- 👀 I’m interested in game dev, computer graphics, cybersecurity, web dev, and combining art & tech.
+- 🎨 I have a Bachelor of Media Arts from Emily Carr University in Canada
+- 🌱 I'm also a very part-time Computer Science student (working on my 2nd degree!)
 - 📫 Mastodon [@sarahhmakes@mastodon.art](https://mastodon.art/@sarahhmakes) || Instagram [@sarahhmakes](http://instagram.com/sarahhmakes)
 
 <!---
