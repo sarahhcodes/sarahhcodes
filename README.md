@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Sarah H(udson)!
-- 👩‍💻 I've been making websites since the 2000s.
-- 🎨 I have a Bachelor of Media Arts from Emily Carr University in Canada.
-- 🌱 I'm currently upgrading and refreshing my skills through online courses, including Harvard's CS50 and [The University of Helsinki's Full Stack Open](https://fullstackopen.com/en/).
-- 👀 I’m also interested in game dev, computer graphics, cybersecurity, and combining art, media, and tech.
+# Hi, I'm Sarah 👋
+
+I am a **Creative Developer** based in Edmonton, Canada. I blend fifteen years of cinematic craft with formal computer science study to build tools and experiences that tell stories.
+
+### 🛠️ Technical Focus
+* **Languages:** Python, JavaScript (ES6+), HTML5/CSS3.
+* **Architecture:** Static Site Generation (Eleventy), E-commerce (Shopify/Liquid), and CLI automation.
+* **CS Foundations:** Focused on **Algorithms and Discrete Math** (University of London & Harvard CS50).
+
+### 🎨 Integrated Practice
+My technical work feeds back into my creative practice:
+* **Film:** Building custom post-production tools like **BatchConvert CLI**.
+* **Illustration:** Bridging analog art with digital logic in projects like **Bloombox**.
+* **Entrepreneurship:** Architecting the digital ecosystem for my creative portfolio website **SarahHudson.ca** and my book series, **Owl Adventures**.
+
+### 📬 Connect with me
 - 📫 Mastodon [@sarahhmakes@mastodon.art](https://mastodon.art/@sarahhmakes) || Instagram [@sarahhmakes](http://instagram.com/sarahhmakes)
 
 <!---
