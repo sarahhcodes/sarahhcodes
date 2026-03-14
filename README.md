@@ -10,7 +10,7 @@ I am a **Creative Developer** based in Edmonton, Canada. I blend fifteen years o
 ### 🎨 Integrated Practice
 My technical work feeds back into my creative practice:
 * **Film:** Building custom post-production tools like **BatchConvert CLI**.
-* **Illustration:** Bridging analog art with digital logic in projects like **Bloombox**.
+* **Illustration:** Bridging analog art with digital logic in projects like **Terraform**.
 * **Entrepreneurship:** Architecting the digital ecosystem for my creative portfolio website **SarahHudson.ca** and my book series, **Owl Adventures**.
 
 ### 📬 Connect with me
